@@ -21,9 +21,13 @@ Classification: Achieves 100% accuracy in classifying customer activity (high/lo
 Requirements:
 
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
 
 Conclusion:
