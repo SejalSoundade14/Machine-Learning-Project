@@ -6,17 +6,17 @@ Predicting total spending using regression.
 Segmenting customers with KMeans clustering.
 Classifying customer activity levels (high/low) using Random Forest.
 
-Dataset
+Dataset:
 
 The dataset contains transactional details such as customer ID, product code, quantity, price, and transaction date.
 
-Key Findings
+Key Findings:
 
 Regression Model: Predicts total spending with an R² score of 0.85.
 Clustering: Segments customers based on purchasing behavior.
 Classification: Achieves 100% accuracy in classifying customer activity (high/low).
 
-Requirements
+Requirements:
 
 pandas
 numpy
@@ -24,6 +24,6 @@ matplotlib
 seaborn
 scikit-learn
 
-Conclusion
+Conclusion:
 
 The project provides insights into customer behavior, with accurate predictions and classifications that can aid businesses in marketing and customer segmentation.
