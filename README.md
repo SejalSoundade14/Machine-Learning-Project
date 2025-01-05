@@ -2,9 +2,11 @@ Overview:
 
 This project explores an eCommerce dataset and applies data analysis and machine learning techniques to predict total spending and classify customer activity levels. Key tasks include:
 
-Predicting total spending using regression.
-Segmenting customers with KMeans clustering.
-Classifying customer activity levels (high/low) using Random Forest.
+1)Predicting total spending using regression.
+
+2)Segmenting customers with KMeans clustering.
+
+3)Classifying customer activity levels (high/low) using Random Forest.
 
 Dataset:
 
